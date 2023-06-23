@@ -24,7 +24,8 @@ extern int numProcessos;
 extern key_t memo1Key;
 extern key_t memo2Key;
 extern key_t memo3Key;
-extern key_t memo4Key;
+//extern key_t memo4Key;
+
 extern key_t semKey;
 
 extern struct sembuf operacao[2];
