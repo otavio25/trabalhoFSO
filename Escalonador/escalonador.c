@@ -819,12 +819,12 @@ int main(int argc, char *argv[]) {
                         _exit(1);                                               // Avisa ao Escalonador(PAI) que terminou, retorna o id do AUX
                         break;
                 
-                case 2:                                                         // Caso esteja no Auxiliar (1)
+                case 2:                                                         // Caso esteja no Auxiliar (2)
                         executaAUX(&tempo, &modo, &i);                          // Executa código do Auxiliar (2)
                         _exit(2);                                               // Avisa ao Escalonador(PAI) que terminou, retorna o id do AUX
                         break;
                 
-                case 3:                                                         // Caso esteja no Auxiliar (1)
+                case 3:                                                         // Caso esteja no Auxiliar (3)
                         executaAUX(&tempo, &modo, &i);                          // Executa código do Auxiliar (3)
                         _exit(3);                                               // Avisa ao Escalonador(PAI) que terminou, retorna o id do AUX
                         break;
