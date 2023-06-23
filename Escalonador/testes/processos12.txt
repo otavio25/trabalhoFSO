@@ -7,4 +7,9 @@ medio
 rapido
 
 lento
+rapido
 
+medio
+lento
+medio
+rapido
