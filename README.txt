@@ -5,7 +5,7 @@ Integrantes do grupo:
 
 Lucas Jr. Ribas - 160052289
 Fernanda ...
-Otávio ...
+Otávio Souza de Oliveira - 150143401
 Bruno Helder Rodrigues Guedes - 150120338
 
 Instruções de execução:
